@@ -1415,6 +1415,13 @@ footer {
     width: 100vw;
 }
 
+@media (min-width: 1500px) {
+  .mountain1,
+  .mountain2 {
+    bottom: 20px;
+  }
+}
+
 footer ul {
     position: absolute;
     bottom: 3rem;
